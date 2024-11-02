@@ -7,10 +7,18 @@ This project demonstrates web scraping techniques using Python's Selenium and Pa
 
 Features
 Data Extracted: Book titles, prices, stock status, reviews, and descriptions.
+
 Automated Workflow: Loops through multiple pages to gather data across the site.
+
 Data Storage: Collected data is stored in an Excel file for easy access and further analysis.
+
 Requirements
+
 Python 3.x
+
 Selenium
+
 Pandas
+
 Chrome WebDriver
+
